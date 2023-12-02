@@ -1,0 +1,20 @@
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.egg-info/
+dist/
+build/
+*.egg
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Text files
+*.txt
